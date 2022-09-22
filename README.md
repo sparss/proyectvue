@@ -1,6 +1,6 @@
 #  proyectvue
 
-This template should help get you started developing with Vue 3 in Vite.
+Alumno: Brandon Yahir Escobedo Rodriguez 
 
 ## Recommended IDE Setup
 
